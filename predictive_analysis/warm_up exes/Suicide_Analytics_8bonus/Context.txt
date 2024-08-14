@@ -1,0 +1,3 @@
+Organizata boterore e shendetit - WHO cdo vit mbledhe statistika per vetevrasjet e individeve ne shtete te ndryshme te botes. 
+Qellimi i studimit ne kete dataset eshte identifikimi i faktoreve kyc nga atributet e ofruara se cka ndikon
+me shume ne vetevrasje dhe te ipen hipoteza sesi mund te zvogelohet ky fenomen.

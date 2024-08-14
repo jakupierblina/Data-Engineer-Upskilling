@@ -1,0 +1,12 @@
+Country  String  Shteti se nga vijne te dhenat
+Year  Numercial  Viti i lindjes se personave
+Sex  String  Gjinia e personave
+Age  String  Mosha e personave
+Suicides_no  Numerical  Numri i vetevrasjeve
+Population Numerical  Numri i personave qe hyjne ne grupmoshe
+Suicides/100k pop  Numerical  Proporcioni i vetevrasjeve per 100000 banore
+Country-year  String  Shteti-Viti Lindjes
+HDI for year  Numerical  Human Development Index (indeksi i zhvillimit te njeriut), sa me i madh ky indeks, jetegjatesia e popullates, edukimi dhe te ardhurat jane me te larta
+Gdp_for_year ($)  Numerical  Gross Domestic Product per vit, ne nivel shteti
+Gdp_per_capita ($)  Numerical  Gross Domestic Product per koke banori, fitohet duhet pjestuar te ardhurat e banorit me GDP te popullates se nje shteti
+Generation  String  Gjenerata e grupmoshes

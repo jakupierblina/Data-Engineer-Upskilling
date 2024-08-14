@@ -1,0 +1,19 @@
+Id_klientit - String - ID e klientit
+Gjinia - String - Gjinia e klientit
+Qytetare_imoshuar - String - Indikatori se a eshte person i moshuar apo jo (Junior Senior)
+Familjar(anetare) - String - Indikatori qe tregon se a ka anetare te tjere te familjes
+Kohezgjatja_kontrates_muaj - Number - Muajt e kontrates me provajderin
+Sherbimi_telefonise - String - Indikatori qe tregon se a ka abonim per sherbim te telefonise
+Linja_te_shumifishta_provider - String - Indikatori qe tregon se a ka abonime ne provajder te tjere per telefoni
+Sherbim_internet - String - Indikatori qe tregon se cfar abonimi ka per Internet
+OnlineSecurity - String - Indikatori qe tregon se a ka abonim per Online Security Sherbim
+OnlineBackup - String - Indikatori qe tregon se a ka abonim per Online Backup Sherbim
+DeviceProtection - String - Indikatori qe tregon se a ka abonim per Device Protecion
+Suporti_teknik_perfshier - String - Indikatori qe tregon se a ka abonim per suport teknik te perfshier
+StreamingTV - String - Indikatori qe tregon se a ka abonim per StreamingTV
+StreamingMovies - String - Indikatori qe tregon se a ka abonim per StreamingMovies
+Kontrata - String - Lloji i kontrates
+Menyra_pageses - String - Menyra e pageses
+Tarifa_mujore - String - Shuma qe klienti paguan ne baza mujore
+Tarifat_totale - String - Shuma totale qe klienti eshte i detyruar te paguaj deri ne perfundim te kontrates
+Leshuar_providerin - String - Indikatori qe tregon nese klienti e ka nderprere kontraten ose jo

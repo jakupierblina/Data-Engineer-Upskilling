@@ -1,0 +1,9 @@
+Dataseti ne vijim ka shenime te mbledhura nga disa platforma (HBO, Netflix, Rottentomatoes).
+
+Qellimi kryesor i ketij dataseti gjetja e:
+
+- Cfar filma/Seria/Permbajtje ofrohen ne shtete te ndryshme
+- Grupimi i permbajtjes se filmave ne baze te tekstit te pershkrimit te filmit
+- Bashkpunimin e aktoreve
+- Ne vite te ndryshme, si qendron raporti mes Serialeve dhe Filmave, cilat shiqohen me shume
+- Engine per rekomandim te filmave

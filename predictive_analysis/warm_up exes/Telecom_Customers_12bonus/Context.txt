@@ -1,0 +1,4 @@
+Te dhenat jane marr nga nje provajder i telefonise dhe internetit, ku jane ofruar shenime per kliente te ndryshem. 
+Disa prej tyre i kane nderprere kontratat me kompanine. 
+Ju duhet te analizoni cilet jane faktoret kryesore qe shtyejne klientet per nderprerje
+dhe te krijohet nje model klasifikues per keta kliente.

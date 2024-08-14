@@ -1,0 +1,8 @@
+Nje sfide shume e madhe per bankat eshte menaxhimi i ATM. 
+ATM perpos sfidave te sigurise kane edhe sfida logjistike; si mirembajtja dhe mbushja e tyre me te holla ne menyre qe klientet kane gjithmone 
+rastin ti perdorin pa nderprerje ne asnje periudhe kohere. 
+Ne datasetin e ofruar ka transaksione ne ATM qe jane realizuar pergjate nje periudhe te caktuar nje javore.
+Qellimi eshte te analizohen te dhenat e perdorimit te ATM dhe te nxirren informacione te ndryshme qe permes vizualizimit 
+dhe nderlidhjes se atributeve, mund te ndikojne ne te gjetura kritike per menaxhimin e ATM dhe fondeve te tyre.
+
+

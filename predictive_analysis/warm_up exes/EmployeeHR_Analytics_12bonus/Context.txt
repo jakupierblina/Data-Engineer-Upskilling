@@ -1,0 +1,5 @@
+Largimi i punetoreve nga kompanite eshte problem qe ka impakt ne te gjitha llojet e bizneseve, pa dallim nga pozita gjeografike, industria apo madhesia e kompanise.
+Largimi i punetoreve ka ndikim te madh ne kosto te kompanise, perfshire ketu punesimi i stafit te ri, trajnimi i stafit te ri etj. 
+Eshte ne benefit per te gjitha kompanite kuptimi i nxitesve te largimit te punetoreve. 
+Ne datasetin e ofruar ka shenime te punetoreve te nje kompanie, ku disa prej tyre kane leshuar kompanine ndersa disa kane qendruar. 
+Ju duhet te gjeni faktoret kryesor qe ndikojne ne largimin e punetoreve nga kompanite dhe te ndertohet nje model klasifikues mbi kete problem.

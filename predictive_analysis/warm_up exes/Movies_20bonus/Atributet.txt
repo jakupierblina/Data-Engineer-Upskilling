@@ -1,0 +1,12 @@
+ID - String - Identifikatori
+Tipi - String - Lloji Film/Seri
+Titulli - String - Titulli i Filmit/Serise
+Regjisori - String - Emri i Regjisorit te filmit
+Aktoret - String - Lista e aktoreve kryesor qe kane marr pjese ne film
+Shteti - String - Shteti ku eshte prodhuar filmi/seria
+Koha_e_shtuar_platforme - String - Koha kur filmi/seria eshte futur ne platforme (netflix/hbo/amazonprime)
+Viti_leshimit - DateYYYY - Viti kur ka dal filmi/seria
+Rating - String - Ratingu i filmit/serise
+Kohezgjatja - String - Kohezgjatja e filmit/serise
+Listuar_ne_kategorine - String - Kategoria ne te cilen eshte listuar ne platforme
+Pershkrimi - String - Pershkrimi tekstual i permbajtjes se filmit

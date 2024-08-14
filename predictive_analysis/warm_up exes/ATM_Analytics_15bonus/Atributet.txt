@@ -1,0 +1,12 @@
+atmId  string  Identifikator
+atmEmri  string  Emri i ATM
+atmQyteti  string  Qyteti ku eshte pozicionuar ATM
+atmAdresa  string  Adresa ku eshte pozicionuar ATM
+bilancitotal  numerical  bilanci total i parave ne dispozicion ne ATM
+numri_incoming_transactions  numerical  Numri i transaksioneve qe kane deponuar fonde ne atm
+numri_outgoing_transactions  numerical  Numri i transaksioneve qe kane terhequr fonde ne atm
+income_total  numerical  sasia e fondeve qe jane deponuar ne atm
+outcome_total  numerical  sasia e fondeve qe jane terhequr nga atm
+numri_total_transactions  numerical numri i transaksioneve qe jane realizuar ne atm (incoming + outgoing)
+dita  string  Dita e javes e perdorimit te atm
+koha_transaksionit  date   Koha kur eshte perdorur, te ndara me ore

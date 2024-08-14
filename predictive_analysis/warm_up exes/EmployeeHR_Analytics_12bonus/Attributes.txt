@@ -1,0 +1,25 @@
+ID - Number - Identifikatori Punetorit
+Mosha - Number - Mosha e Punetorit
+Udhetime_biznesore - String - Frekuenca e udhetimit te punetorit ne kuader te punes
+Departamenti - String - Departamenti se ku ka punuar punetori
+Distanca_nga_shtepija - Number - Metrike qe tregon sa km large nga puna ka qene punetori (shtepi pune)
+Fusha_edukimit - String - Lemia qe ka specializuar punetori ne studime
+Ambientimi_punetorit - Number - Metrike qe HR e ka supozuar per punetorin ne aspektin sesa ai/ajo ka qene i/e ambientuar ne pune
+Gjinia - String - Gjinia e punetorit
+Involvimi_ne_detyra_pergjegjesi - Number - Metrike qe HR e ka supozuar per punetorin ne aspektin sesa tasqe/detyra/pergjegjesi ka pasur te alokuar
+Niveli_punes - Number - Metrike qe HR e ka supozuar per punetorin ne aspektin e nivelit te pergjegjesise per poziten qe ai/ajo ka pasur.
+Roli - String - Roli i pozites qe ka pasur punetori
+Satisfaksioni_punedhenesit - Number Metrike qe HR e ka perdor per te vleresuar punen e punetorit
+Statusi_martesor - String - Statusi martesor i punetorit
+Ardhurat_mujore - Number - Shuma e te ardhurave mujore te punetorit
+Numri_kompanive_qe_kapunuar - Number - Numri i kompanive te meparshme qe ka punuar
+OverTime - String - A ka punuar shpesh OverTime (pas orarit te rregullt) punetori.
+Ngritja_rroges_perqindje - Number - Perqindja e rritjes se rroges
+Vite_pervoje_pune - Number - Numri i viteve te pervojes se punes
+Numri_trajnimeve_vitin_kaluar  Number - Numri i trajnimeve ne kuader te punes
+Bilanci_pune_jete - Number - Metrike qe HR e ka supozuar per punetorin ne aspektin e bilancit te punes dhe jetes se punetorit
+Vitet_me_kompanine - Number - Numri i viteve qe punetori punon ne kompani
+Vitet_ne_rolin_aktual - Number - Numri i viteve qe punetori ka rolin aktual ne kompani
+Vitet_qe_nga_ngritja_pozites - Number - Numri i viteve qe nga ngritja ne pozite ne kompani
+Vitet_me_menagjerin_aktual - Number - Numri i viteve me menagjerin aktual ne kompani
+Largimi - String - YES/NO - Indikator nese tregon se eshte larguar punetori/ja nga puna (me vetedeshire, pra e ka leshuar punen)

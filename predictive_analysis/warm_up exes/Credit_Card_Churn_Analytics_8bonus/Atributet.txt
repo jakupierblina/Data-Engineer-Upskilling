@@ -1,0 +1,17 @@
+ID - Number - Identifikatori i klientit
+Mosha - Number - Mosha e klientit
+Gjinia - String - Gjinia e klientit
+Familja - Number - Numri i anetareve te familjes (pa e perfshire vet klientin)
+Niveli_edukimit - String - Niveli i edukimit te klientit
+Statusi_martesor - String - Statusi martesor i klientit
+Te_Ardhurat_vjetore - String - Te ardhurat vjetore te klientit
+Lloji_cc - String - Lloji i kredit karteles (blue, silver, gold)
+Muajt_me_banken - Number - Numri i muajve qe klienti ka pase relacion me banken
+Muajt_joaktiv_gjatevitit - Number - Numri i muajve qe klienti ka qene joaktiv ne banke
+sa_here_ka_kontaktuar_banken - Number - Numri sesa here ka kontaktuar klienti me banken (vizite dege, perdorim ATM, POS etj.) dmth kontakt me entitetet e bankes
+CC_limiti - Number - Limiti i kredit karteles qe klienti mund te perdore
+CC_shuma_perdorur - Number - Shuma totale qe klienti e ka perdorur nga limiti
+CC_shuma_paperdorur - Number - Shuma e paperdorur nga limiti
+Transaksioni_Fundit - Number - Shuma e transaksionit te fundit e realizuar nga klienti
+Numri_transaksioneve - Number - Numri i transaksioneve qe ka bere gjate vitit
+Indikatori_Largim - String - Indikatori qe tregon nese klienti eshte larguar nga banka ose jo

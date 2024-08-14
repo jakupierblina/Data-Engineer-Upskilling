@@ -1,0 +1,12 @@
+CUST_ID - String -Identifikatori i klientit
+Bilanci_aktual - Number - Shuma e mbetur per shpenzim
+Frekuenca_ndryshimit_bilancit - Number - Frekuenca sesa shpesh bilanci behet update nga klienti, pra i ndryshon gjendja (1 = Shpesh, 0 = Rralle)
+Shuma_blerjeve_nga_llogaria - Number - Shuma e blerjeve nga llogaria
+Shuma_transaksionit_metemadh - Number - Shuma e transaksionit me te madhe te bere nga llogaria
+Shuma_si_kest - Number - Shuma qe llogaria paguen si kest mujor
+Frekuenca_perdorimit_cc - Number - Frekuenca e perdorimit te cc, sa here qe klienti e perdore ate (1 = Shpresh, 0 = Rralle)
+Numri_blerjeve_cc - Number - Sa transaksione te blerjeve jane kryer nga llogaria
+CREDIT_LIMIT - Number - Limiti maksimal qe klienti mund ta perdor ne nje kredit kartele
+Pjesa_paguar_limitit - Number - Borgji i paguar per limitin e shfrytezuar
+Pagesa_minimale_cdomuaj_cc - Number - Pagesa minimale qe klienti eshte i obliguar ta paguaj gjate muajit
+Kohezgjatja_cc - Number - Kohezgjatja e kredit karteles, validiteti deri ne maturim (mbyllje)

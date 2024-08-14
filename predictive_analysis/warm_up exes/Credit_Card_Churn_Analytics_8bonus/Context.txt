@@ -1,0 +1,3 @@
+Banka eshte e shqetesuar se pse disa kliente po e nderprejne kontraten per kredi kartele dhe po e leshojne kete produkt.
+Prandaj ju si shkencetar te te dhenave, keni per detyre identifikimin e klienteve potencial per leshimin e bankes permes nje
+modeli klasifikues, ashtu qe te ndermerren hapa me kohe ashtu qe te zvogelohet mundesia e tyre per leshimin e bankes.
