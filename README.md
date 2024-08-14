@@ -1,8 +1,8 @@
-# Data Engineering Upskilling
+### Data-Engineer-Upskilling
 
-Solved just for fun.
-There are some very cool model prediction for analysis, data interpretation and machine learning model. 
 
-One can use this repository as guide to skill themself in path of becoming Data Engineer.
+Repository that has some intresting data sets to triger patterns and extract information.<br>
+There are some very cool model prediction for analysis, data interpretation and machine learning model i did. Feel free to improve and add your solutions. <br>
 
-# Data-Engineer-Upskilling
+One can use this repository  also as a guide to skill themself in path of becoming Data Engineer.
+

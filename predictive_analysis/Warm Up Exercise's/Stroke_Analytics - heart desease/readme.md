@@ -26,13 +26,14 @@ have a heart attack.
 
 Some visual interpretation of the values in dataset
 
+<img src="results/Comparison_of_Heart_Disease_and_Hypertension_by_Infarct_Status_and_Gender.png" width="700" height="500">
 
-   ![Alt text](results/Comparison_of_Heart_Disease_and_Hypertension_by_Infarct_Status_and_Gender.png"")
 
+  
 
  Distribution of Infarct Cases by Duhanpirja |   Distribution of Infarct Cases by Gender
 :-------------------------:|:-------------------------:
-![Alt text](results/Distribution of Infarct Cases by Duhanpirja.png"") |   ![Alt text](results/Distribution of Infarct Cases by Gender.png"")
+<img src="results/Distribution of Infarct Cases by Duhanpirja.png"> |   <img src="results/Distribution of Infarct Cases by Gender.png">
                                                                        |
 
 
@@ -50,7 +51,7 @@ Dataset is clean and does not have null values, however it is very imbalaced we 
 
 ## Solution
 
-Implementing Gradient Boosting performed well as model prediction compared to Logistic Regression.  <br>
+Implementing <b>Gradient Boosting </b>performed well as model prediction compared to Logistic Regression.  <br>
 We know that the data is imbalanced that is why we choose GradientBoosting to handle better the imbalance by implementing SMOTE technique. Furthermore the other fininds as the dataset does not have null values except the 'BMI' column we handle it by adding mean value in that cell.  <br>
 With these fininds in previous model it was easy to implement GradientBosting, where this model performed <b>accuracy of 91%. </b> <br><br>
 
